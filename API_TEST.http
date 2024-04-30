@@ -1,0 +1,10 @@
+
+@api_key = b11a12d78edf2d10ca457ac65b4b3e70
+@client_id = d68c1242f9c80764e301fb8f8f093ccd
+
+### Get Station
+@station = Magdeburg Hbf
+GET https://apis.deutschebahn.com/db-api-marketplace/apis/timetables/v1/station/Magdeburg+HBF
+Accept: application/xml
+DB-Client-Id: {{client_id}}
+DB-Api-Key: {{api_key}}

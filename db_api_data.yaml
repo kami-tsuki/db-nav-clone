@@ -1,0 +1,11 @@
+# TODO add after push, remove before push [IDFK HOW TO USE SECRETS OKAY]
+client_id:
+api_key:
+
+base_url: https://apis.deutschebahn.com/db-api-marketplace/apis/
+
+endpoints:
+  station: timetables/v1/station/{pattern}
+
+
+

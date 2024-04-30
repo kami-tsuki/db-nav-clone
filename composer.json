@@ -1,0 +1,20 @@
+{
+  "name": "philippneube_z3wwico/deutschebahn",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "PhilippNeube_z3wwico",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "symfony/yaml": "^5.3",
+    "ext-yaml": "*",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-xml": "*",
+    "ext-simplexml": "*"
+  }
+}
